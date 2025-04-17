@@ -12,13 +12,13 @@ An interactive 3D visualization of a sphere that can dissipate and reform, creat
 
 ## Live Demo
 
-Visit the [live demo](https://philipjameson.github.io/dissipating-sphere/) to see it in action.
+Visit the [live demo](https://phil-on-air.github.io/dissipating-sphere/) to see it in action.
 
 ## Local Development
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/philipjameson/dissipating-sphere.git
+git clone https://github.com/phil-on-air/dissipating-sphere.git
 ```
 
 2. Open `index.html` in your browser or use a local server:
